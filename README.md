@@ -97,7 +97,7 @@ Full-stack automated attendance management system designed for academic use.
 Implements role-based authentication, faculty/student management, subject
 assignments, lecture sessions, attendance tracking, and attendance reporting.
 
-🔗 [View Project](YOUR_ACROPOLIS_ONE_REPO_LINK)
+🔗 [View Project](https://github.com/RishikeshKarkhanis/Acropolis-One)
 
 
 ### 📋 TaskZen
@@ -108,7 +108,7 @@ Full-stack task management application with a React frontend and Spring Boot
 backend. Implements task CRUD operations, RESTful APIs, authentication,
 database integration, and layered backend architecture.
 
-🔗 [View Project](YOUR_TASKZEN_REPO_LINK)
+🔗 [View Project](https://github.com/RishikeshKarkhanis/TaskZen)
 
 
 ### 📁 MiniSend
@@ -118,7 +118,18 @@ database integration, and layered backend architecture.
 Local file-sharing web application inspired by LocalSend, designed to transfer
 files between devices without relying on cloud storage.
 
-🔗 [View Project](YOUR_MINISEND_REPO_LINK)
+🔗 [View Project](https://github.com/RishikeshKarkhanis/mini-send)
+
+
+### 📸 PixGram
+
+**React · Node.js · Express.js · MongoDB**
+
+Full-stack social media application inspired by Instagram, featuring user
+authentication, profile management, image sharing, posts, likes, comments,
+and a responsive React-based interface.
+
+🔗 [View Project](https://github.com/RishikeshKarkhanis/Pixgram)
 
 
 ### 🐄 AI-Based Cattle Breed Recognition
@@ -128,7 +139,7 @@ files between devices without relying on cloud storage.
 AI-powered cattle breed recognition system that analyzes uploaded images,
 identifies likely cattle breeds, and retrieves breed information from MongoDB.
 
-🔗 [View Project](YOUR_CATTLE_PROJECT_REPO_LINK)
+🔗 [View Project](https://github.com/RishikeshKarkhanis/cattle-breed-recognition-backend)
 
 
 ### 🌐 Portfolio
