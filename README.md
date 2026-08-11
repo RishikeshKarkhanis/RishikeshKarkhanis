@@ -1,20 +1,23 @@
-# 💫 About Me:
+# 👋 Hi, I'm Hrishikesh Karkhanis
 
-🔨 I’m currently working on<br>
-Acropolis One — a full-stack automated attendance application for my department with React Native and Spring Boot, focusing on REST APIs, authentication, and database integration.<br><br>
+I'm a **B.Tech Computer Science (AI & ML) student** at **Acropolis Institute of Technology & Research, Indore**, with a strong interest in **full-stack development and backend engineering**.
 
-👥 I’m looking to collaborate on<br>
-Full-stack web applications, backend systems, and developer-focused projects.<br><br>
+I enjoy building applications that solve real problems — from designing REST APIs and database architectures to building responsive interfaces and integrating authentication systems. I'm currently focusing on **Java, Spring Boot, Spring Data JPA, and system design**, while continuing to work with the MERN stack.
 
-🤝 I’m looking for help with<br>
-System design, backend architecture, and writing scalable Spring Boot applications.<br><br>
+🔨 **Currently working on**  
+Acropolis One — a full-stack automated attendance application for my department, built with React Native and Spring Boot, focusing on REST APIs, authentication, role-based access control, and database integration.
 
-🌱 I’m currently learning<br>
-Spring Boot, Spring Data JPA, system design, and backend architecture.<br><br>
+🌱 **Currently learning**  
+Spring Boot, Spring Data JPA, system design, backend architecture, and scalable application development.
 
-💬 Ask me about<br>
+👥 **Looking to collaborate on**  
+Full-stack web applications, backend systems, and developer-focused projects.
+
+💬 **Ask me about**  
 React, Spring Boot, REST APIs, Express.js, Node.js, MongoDB, MySQL, and full-stack development.
 
+🎯 **Goal**  
+To become a strong software engineer capable of designing, building, and scaling reliable real-world systems.
 
 ## 🌐 Socials:
 
