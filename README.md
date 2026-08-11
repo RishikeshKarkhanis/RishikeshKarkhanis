@@ -21,6 +21,7 @@ React, Spring Boot, REST APIs, Express.js, Node.js, MongoDB, MySQL, and full-sta
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rishikeshkarkhanis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshkarkhanis01)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@hrishikeshkarkhanis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rishikesh-karkhanis-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikeshkarkhanis0101@gmail.com)
 
 
@@ -84,6 +85,60 @@ React, Spring Boot, REST APIs, Express.js, Node.js, MongoDB, MySQL, and full-sta
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+# 🚀 Featured Projects:
+
+### 🎓 Acropolis One
+
+**React Native · Spring Boot · MySQL · REST APIs**
+
+Full-stack automated attendance management system designed for academic use.
+Implements role-based authentication, faculty/student management, subject
+assignments, lecture sessions, attendance tracking, and attendance reporting.
+
+🔗 [View Project](YOUR_ACROPOLIS_ONE_REPO_LINK)
+
+
+### 📋 TaskZen
+
+**React · Spring Boot · MongoDB · REST APIs**
+
+Full-stack task management application with a React frontend and Spring Boot
+backend. Implements task CRUD operations, RESTful APIs, authentication,
+database integration, and layered backend architecture.
+
+🔗 [View Project](YOUR_TASKZEN_REPO_LINK)
+
+
+### 📁 MiniSend
+
+**React · Node.js · Express.js**
+
+Local file-sharing web application inspired by LocalSend, designed to transfer
+files between devices without relying on cloud storage.
+
+🔗 [View Project](YOUR_MINISEND_REPO_LINK)
+
+
+### 🐄 AI-Based Cattle Breed Recognition
+
+**React · Flask · MongoDB · Vertex AI**
+
+AI-powered cattle breed recognition system that analyzes uploaded images,
+identifies likely cattle breeds, and retrieves breed information from MongoDB.
+
+🔗 [View Project](YOUR_CATTLE_PROJECT_REPO_LINK)
+
+
+### 🌐 Portfolio
+
+**React · Tailwind CSS · Vercel**
+
+Personal developer portfolio showcasing my projects, technical skills,
+experience, and contact information.
+
+🔗 [Visit Portfolio](https://rishikesh-karkhanis-portfolio.vercel.app/)
 
 
 # 📊 GitHub Stats:
